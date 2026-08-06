@@ -41,7 +41,7 @@ A análise dos detalhes da PDU permite observar a alteração do endereço IP de
 ![Tradução NAT](images/nat-before-translation.png)
 
 
-![Tradução NAT](images/nat-before-translation.png)
+![Tradução NAT](images/nat-after-translation.png)
 
 ---
 
